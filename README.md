@@ -1,13 +1,13 @@
 
-# 🚀 Meu Primeiro Copilot com o Microsoft Copilot Studio
+# Meu Primeiro Copilot com o Microsoft Copilot Studio
 
-## 🎯 Desafio da DIO
+## Desafio da DIO
 
 Este projeto foi criado como parte do desafio da DIO para explorar o Microsoft Copilot Studio e entender como criar copilots em três formatos diferentes.
 
 ---
 
-## ✅ O que foi feito
+## O que foi feito
 
 ### 1. Copilot baseado em modelo
 Criado com base em um modelo pronto de Suporte Técnico, com tópicos como problemas de login e impressora.
@@ -20,7 +20,7 @@ Totalmente criado do zero, com foco em atendimento acadêmico, consulta de notas
 
 ---
 
-## 📁 Arquivos do Projeto
+##  Arquivos do Projeto
 
 - `copilot-modelo.md`: Copilot baseado em modelo
 - `copilot-descricao.md`: Copilot baseado em descrição com IA
